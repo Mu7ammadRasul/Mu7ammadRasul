@@ -2,7 +2,7 @@
  
  
 
-<h3 align="center">Working through these Languages</h3>
+<h3 align="center">Working with these Languages and Stuff</h3>
 <p align="center"> 
  <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
  <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
