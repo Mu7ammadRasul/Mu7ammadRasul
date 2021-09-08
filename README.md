@@ -1,9 +1,8 @@
  <h1 align="right"> اللهُمّ صَلِّ وَسَلّم عَلَى نَبَيِّنَا םُבَםّבﷺ</h3>
  
  
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mu7ammadrasul&theme=gruvbox&row=1&margin-w=15" alt="mu7ammadrasul" /></a> </p>
 
-<h3 align="center">Languages:</h3>
+<h3 align="center">Working through these Languages</h3>
 <p align="center"> 
  <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
  <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
@@ -56,6 +55,9 @@
 <img align="center" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=mu7ammadrasul&theme=highcontrast" alt="mu7ammadrasul"/>
 <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=mu7ammadrasul&show_icons=true&locale=en&layout=compact&theme=merko" alt="mu7ammadrasul" />
 </p>
+  
+  
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mu7ammadrasul&theme=gruvbox&row=1&margin-w=15" alt="mu7ammadrasul" /></a> </p>
 
 <p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=mu7ammadrasul&theme=react-dark" alt="mu7ammadrasul"/></p>
 
