@@ -61,7 +61,7 @@
 
 <p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=mu7ammadrasul&theme=react-dark" alt="mu7ammadrasul"/></p>
 
-<h3 align="left"><p align="center">socials: <p align="center"> <img src="https://komarev.com/ghpvc/?username=mu7ammadrasul&label=Profile%20views&color=0e75b6&style=flat" alt="mu7ammadrasul" /> </p></p></h3> 
+<h3 align="left"><p align="center">socials<p align="center"> <img src="https://komarev.com/ghpvc/?username=mu7ammadrasul&label=Profile%20views&color=0e75b6&style=flat" alt="mu7ammadrasul" /> </p></p></h3> 
 
 <p align="center">
 <a href="https://twitter.com/muhammad_r4sul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/muhammad_r4sul" height="30" width="40" /></a>
