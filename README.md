@@ -66,5 +66,5 @@
 <p align="center">
 <a href="https://twitter.com/muhammad_r4sul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/muhammad_r4sul" height="30" width="40" /></a>
 <a href="https://facebook.com/mu7ammadrasul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://facebook.com/mu7ammadrasul" height="30" width="40" /></a>
-<a href="https://www.instagram.com/mu7ammad_r4sul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mu7ammad_r4sul" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mu7ammad_r4sul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mu7ammad_r4sul/" height="30" width="40" /></a>
 </p>
