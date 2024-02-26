@@ -2,7 +2,7 @@
  
  
 
-<h3 align="center">Frontend { Flutter, HTML/CSS }<br> backend { Node.js/Flask }<br> Database { MySQL/SQLite, Firebase }</h3>
+<h3 align="center">Frontend { Flutter, HTML/CSS }<br> backend { Node.js/Flask and Rust-Axum }<br> Database { MySQL/SQLite, Firebase }</h3>
 <p align="center"> 
  <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
  <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
