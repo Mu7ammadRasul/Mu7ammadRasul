@@ -8,6 +8,7 @@
 <a href="https://flutter.dev"><img src="./assets/flutter.svg" alt="flutter" height="100" title="Flutter documentation"></a>
 <a href="https://flutter.dev"><img src="./assets/dart.svg" alt="dart" height="100" title="Dart documentation"></a>
 <a href="https://golang.org/doc/"><img src="./assets/go-original.svg" alt="golang" height="100" title="Golang documentation"></a>
+<a href="https://www.rust-lang.org"><img src="./assets/rust.svg" alt="rust" height="100" title="Rust documentation"></a>
 <a href="https://nodejs.org/en/docs/guides"><img src="./assets/node.svg" alt="node" height="100" title="Node documentation"></a>
 <a href="https://expressjs.com"><img src="./assets/express.svg" alt="express" height="100" title="Express documentation"></a>
 <a href="https://fastify.dev"><img src="./assets/fastify.svg" alt="fastify" height="100" title="Fastify documentation"></a>
