@@ -5,8 +5,15 @@
 # Main Skills #
 
 
-<a href="https://nodejs.org/en/docs/guides"><img src="./assets/node.svg" alt="node" height="100" title="Node documentation"></a>
+<a href="https://flutter.dev"><img src="./assets/flutter.svg" alt="flutter" height="100" title="Flutter documentation"></a>
+<a href="https://flutter.dev"><img src="./assets/fludarttter.svg" alt="dart" height="100" title="Dart documentation"></a>
 <a href="https://golang.org/doc/"><img src="./assets/go-original.svg" alt="golang" height="100" title="Golang documentation"></a>
+<a href="https://nodejs.org/en/docs/guides"><img src="./assets/node.svg" alt="node" height="100" title="Node documentation"></a>
+<a href="https://expressjs.com"><img src="./assets/express.svg" alt="express" height="100" title="Express documentation"></a>
+<a href="https://fastify.dev"><img src="./assets/fastify.svg" alt="fastify" height="100" title="Fastify documentation"></a>
+<a href="https://firebase.google.com"><img src="./assets/firebase.svg" alt="firebase" height="100" title="Firebase documentation"></a>
+<a href="https://www.mysql.com"><img src="./assets/mysql.svg" alt="mysql" height="100" title="Mysql documentation"></a>
+<a href="https://www.postgresql.org"><img src="./assets/postgresql.svg" alt="Postgresql" height="100" title="Postgresql documentation"></a>
 <a href="https://developer.android.com/reference"><img src="./assets/android-plain.svg" alt="android" height="100" title="Android reference"></a>
 <a href="https://https://ios.cfw.guide/"><img src="./assets/ios.svg" alt="ios" height="100" title="iOS reference"></a>
 
