@@ -154,10 +154,6 @@
 
 </p>
 
-
-<a href="https://rextester.com/l/kotlin_online_compiler"><img src="./assets/colored.png"  width="100%" alt="kotlin_online_compiler"/></a>
-
-
 <!-- activity graph heroku-app start -->
 <p align="center">
     <a href="https://wakatime.com/@Goblin8888">
@@ -175,7 +171,7 @@
 </p>
   
   
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mu7ammadrasul&theme=gruvbox&row=1&margin-w=15" alt="mu7ammadrasul" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mu7ammadRasul&theme=gruvbox&row=1&margin-w=15" alt="mu7ammadrasul" /></a> </p>
 
 <h3 align="left"><p align="center">socials<p align="center"> <img src="https://komarev.com/ghpvc/?username=mu7ammadrasul&label=Profile%20views&color=0e75b6&style=flat" alt="mu7ammadrasul" /> </p></p></h3> 
 
