@@ -30,7 +30,7 @@
 
   <br><br><br>
 
-  <h3 style="color: #FF0055;">🌌 The Event Horizon (Contribution Orbit)</h3>
+  <h3 style="color: #FF0055;">The Event Horizon (Contribution Orbit)</h3>
   <a href="https://github.com/mu7ammadrasul">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=mu7ammadrasul&bg_color=0d1117&color=FF0055&line=00F3FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
   </a>
